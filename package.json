@@ -1,0 +1,24 @@
+{
+  "name": "cas-beats",
+  "version": "1.0.0",
+  "description": "cas-e-commerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "Nodemon -L"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H4RR1S-D3V/Cas-Beats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/H4RR1S-D3V/Cas-Beats/issues"
+  },
+  "homepage": "https://github.com/H4RR1S-D3V/Cas-Beats#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "morgan": "^1.10.0"
+  }
+}
